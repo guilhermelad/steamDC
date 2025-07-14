@@ -11,8 +11,8 @@ Um bot de Discord feito em Node.js que busca promoções da Steam e posta automa
 
 1️⃣ Clone o repositório  
 2️⃣ Instale dependências:
-3️⃣ Configure o arquivo `.env`
-4️⃣ Rode o bot
+3️⃣ Configure o arquivo `.env`:
+4️⃣ Rode o bot:
 
 
 ## Dependências
