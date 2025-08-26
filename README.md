@@ -57,13 +57,3 @@ npm start
 * [discord.js](https://www.npmjs.com/package/discord.js)
 * [dotenv](https://www.npmjs.com/package/dotenv)
 * [node-fetch](https://www.npmjs.com/package/node-fetch)
-
----
-
-## 💡 Futuras melhorias
-
-* Buscar jogos específicos por nome
-* Filtrar promoções por categoria
-* Avisar promoções baseadas em wishlist
-* Comparar preços com outras lojas (Ex.: Epic, GOG)
-* Adicionar dashboard web para configuração
